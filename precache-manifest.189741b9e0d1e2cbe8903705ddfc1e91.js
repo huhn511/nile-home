@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/nile-home/static/css/2.2a9397b5.chunk.css"
   },
   {
-    "revision": "72e926db4bb971399f6d804bf9d81e6c",
+    "revision": "7b0b3b461f424443630b298b5821b7eb",
     "url": "/nile-home/index.html"
   }
 ];

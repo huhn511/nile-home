@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nile-home/precache-manifest.9db5194fe0f9872824196741dbbb4404.js"
+  "/nile-home/precache-manifest.189741b9e0d1e2cbe8903705ddfc1e91.js"
 );
 
 workbox.clientsClaim();
